@@ -14,4 +14,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![mbachar's 42 stats](https://badge.mediaplus.ma/darkgray/mbachar)](https://github.com/oakoudad/badge42)
+[![mbachar's 42 stats](https://badge.mediaplus.ma/binary/mbachar)](https://github.com/oakoudad/badge42)
