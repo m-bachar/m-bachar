@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m Mohamed Amine Bachar, a junior software developer with a passion for building efficient, user-friendly applications. I have experience in C/C++, HTML, CSS (including TailwindCSS and Bootstrap), JavaScript, React.js, and Python. Currently, I'm expanding my backend skills with Django, Django Rest Framework, and PostgreSQL. I love tackling challenging projects and am always eager to learn new technologies!<br><br>Let's connect and create something amazing! 🚀
+👋 Hi there! I’m Mohamed Amine Bachar, a junior MERN stack developer with a passion for building efficient, user-friendly applications. I have experience in JavaScript, React.js, Node.js, Express.js, and MongoDB, along with HTML, CSS (including TailwindCSS and Bootstrap). I also have a background in C/C++. I love tackling challenging projects and am always eager to learn new technologies! 🚀
 
 
 # 💻 Tech Stack:
